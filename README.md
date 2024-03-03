@@ -28,3 +28,5 @@
 **Ссылка на GitHub Pages**
 
 - [Ссылка на GitHub Pages](https://whatsappit.github.io/mesto-JS/)
+
+- [Ссылка на макет](https://www.figma.com/file/2cn9N9jSkmxD84oJik7xL7/JavaScript.-Sprint-4?type=design&node-id=0-1&mode=design&t=Y1QwSvET5a4YVwCZ-0)
